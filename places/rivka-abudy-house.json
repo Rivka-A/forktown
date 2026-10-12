@@ -1,0 +1,41 @@
+{
+  "id": "rivka-abudy-house",
+  "name": "Rivka Abudy",
+  "creator": "Rivka-A",
+  "plot": "A4",
+  "building": "cottage",
+  "color": "#fe2020",
+  "decoration": "flowers",
+  "story": "Hi friends!",
+  "design": {
+    "wall": "#F0E5C8",
+    "trim": "#846C56",
+    "floors": 1,
+    "roof": "classic",
+    "windows": "cross",
+    "garden": "wildflowers",
+    "feature": "none"
+  },
+  "resident": {
+    "name": "Esme",
+    "figure": "male",
+    "skin": "#D9B68B",
+    "hair": "#675A48",
+    "outfit": "#789B76",
+    "accessory": "none",
+    "greeting": "Hello!",
+    "routine": {
+      "morning": "work",
+      "afternoon": "stroll",
+      "evening": "home",
+      "night": "sleep"
+    }
+  },
+  "sign": {
+    "mode": "text",
+    "text": "HELLO",
+    "color": "#FFF4D4",
+    "background": "#35554A",
+    "html": ""
+  }
+}
